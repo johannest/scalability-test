@@ -1,0 +1,6 @@
+org/vaadin/samples/backend/mock/MockDataService.class
+org/vaadin/samples/backend/data/Availability.class
+org/vaadin/samples/backend/mock/MockDataGenerator.class
+org/vaadin/samples/backend/DataService.class
+org/vaadin/samples/backend/data/Category.class
+org/vaadin/samples/backend/data/Product.class

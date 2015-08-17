@@ -1,0 +1,6 @@
+org/vaadin/samples/ResetButtonForTextField.class
+org/vaadin/samples/AttributeExtension.class
+org/vaadin/client/samples/ResetButtonForTextFieldConnector.class
+org/vaadin/client/samples/ResetButtonForTextFieldConnector$1$1.class
+org/vaadin/client/samples/ResetButtonForTextFieldConnector$1.class
+org/vaadin/samples/AttributeExtensionState.class
