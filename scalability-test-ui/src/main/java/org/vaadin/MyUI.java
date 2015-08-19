@@ -10,7 +10,6 @@ import com.vaadin.server.VaadinServlet;
 import com.vaadin.ui.UI;
 import com.vaadin.ui.themes.ValoTheme;
 
-import org.vaadin.johannest.diagnosticservlet.DiagnosticAndTestServlet;
 import org.vaadin.samples.MainScreen;
 import org.vaadin.samples.authentication.AccessControl;
 import org.vaadin.samples.authentication.BasicAccessControl;

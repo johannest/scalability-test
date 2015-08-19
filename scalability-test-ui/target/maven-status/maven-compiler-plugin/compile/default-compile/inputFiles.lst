@@ -1,9 +1,11 @@
 /Users/jotatu/dev/new-workspace/scalability-test/scalability-test-ui/src/main/java/org/vaadin/samples/crud/SampleCrudView.java
+/Users/jotatu/dev/new-workspace/scalability-test/scalability-test-ui/src/main/java/org/vaadin/DiagnosticAndTestServletSession.java
 /Users/jotatu/dev/new-workspace/scalability-test/scalability-test-ui/src/main/java/org/vaadin/samples/crud/SampleCrudLogic.java
 /Users/jotatu/dev/new-workspace/scalability-test/scalability-test-ui/src/main/java/org/vaadin/samples/authentication/CurrentUser.java
 /Users/jotatu/dev/new-workspace/scalability-test/scalability-test-ui/src/main/java/org/vaadin/samples/crud/ProductForm.java
 /Users/jotatu/dev/new-workspace/scalability-test/scalability-test-ui/src/main/java/org/vaadin/samples/crud/ProductFormDesign.java
 /Users/jotatu/dev/new-workspace/scalability-test/scalability-test-ui/src/main/java/org/vaadin/MyUI.java
+/Users/jotatu/dev/new-workspace/scalability-test/scalability-test-ui/src/main/java/org/vaadin/DiagnosticAndTestServletService.java
 /Users/jotatu/dev/new-workspace/scalability-test/scalability-test-ui/src/main/java/org/vaadin/samples/authentication/BasicAccessControl.java
 /Users/jotatu/dev/new-workspace/scalability-test/scalability-test-ui/src/main/java/org/vaadin/samples/ErrorView.java
 /Users/jotatu/dev/new-workspace/scalability-test/scalability-test-ui/src/main/java/org/vaadin/samples/authentication/LoginScreen.java
@@ -14,5 +16,6 @@
 /Users/jotatu/dev/new-workspace/scalability-test/scalability-test-ui/src/main/java/org/vaadin/samples/about/AboutView.java
 /Users/jotatu/dev/new-workspace/scalability-test/scalability-test-ui/src/main/java/org/vaadin/samples/crud/NumberField.java
 /Users/jotatu/dev/new-workspace/scalability-test/scalability-test-ui/src/main/java/org/vaadin/samples/crud/CollectionToStringConverter.java
+/Users/jotatu/dev/new-workspace/scalability-test/scalability-test-ui/src/main/java/org/vaadin/DiagnosticAndTestServlet.java
 /Users/jotatu/dev/new-workspace/scalability-test/scalability-test-ui/src/main/java/org/vaadin/samples/crud/CategoryField.java
 /Users/jotatu/dev/new-workspace/scalability-test/scalability-test-ui/src/main/java/org/vaadin/samples/Menu.java
