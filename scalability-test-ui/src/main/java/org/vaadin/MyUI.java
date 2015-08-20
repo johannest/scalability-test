@@ -37,7 +37,7 @@ public class MyUI extends UI {
     @Override
     protected void init(VaadinRequest vaadinRequest) {
     	setId("myui-ui");
-    	System.out.println("init");
+    	System.out.println("init "+getSession().getSession().getId());
         Responsive.makeResponsive(this);
         setLocale(vaadinRequest.getLocale());
         getPage().setTitle("My");
@@ -67,8 +67,18 @@ public class MyUI extends UI {
     public AccessControl getAccessControl() {
         return accessControl;
     }
+    
+    
 
-    @WebServlet(urlPatterns = "/*", name = "MyUIServlet", asyncSupported = true
+    @Override
+	public void close() {
+    	System.out.println("closed "+(getSession().getSession()!=null ? getSession().getSession().getId() : ""));
+    	super.close();
+	}
+
+
+
+	@WebServlet(urlPatterns = "/*", name = "MyUIServlet", asyncSupported = true
     		,initParams = {
             @WebInitParam(name = "disable-xsrf-protection", value = "true")
             /*,@WebInitParam(name = "syncIdCheck", value = "false")*/})
